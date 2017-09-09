@@ -1,0 +1,278 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    background: url("../img/popcorn.png") no-repeat fixed center center;
+}
+.wrapper{
+    
+    background-color:;
+    height: 700px;
+    width:1250px;
+    
+    
+}
+
+
+.sm{
+    margin-top: 60px;
+    text-align: left;
+    background-color:;
+    width: 50px;
+    height: 195px;
+    margin-top: 80px;
+    float: right
+	
+}
+
+
+.hello{
+    font-size: 28px;
+   height: 20px;
+    width: 20px;
+    margin-top: 30px;
+    margin-right:450px;
+    margin-left: 50px;
+    float: right;
+}
+
+.bye{
+    display: inline;
+    font-size: 18px;
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+    margin-right:1090px;
+    margin-left: 50px;
+    float: right;
+}
+
+.helloi{
+    font-size: 28px;
+   height: 40px;
+    width: 40px;
+    margin-top: 30px;
+    margin-right:1090px;
+    margin-left: 50px;
+    float: right;
+}
+ 
+.mana{
+    height: 200px;
+    width: 580px;
+    margin-top: 80px;
+    margin-right:30px;
+    margin-left: auto;
+    float: right;
+}
+
+.header{
+    background-color: ;
+    height: 18px;
+    width: 1200px;
+    margin-top: 100px
+    margin-right: 10px;
+    margin-left: 30px; 
+    
+}
+
+
+.dvds{
+    background-color:;
+    height: 150px;
+    width: 600px;
+    margin-top: 20px;
+    margin-right:60px;
+    margin-left: auto;
+    float: right;
+    
+}
+
+.about{
+    background-color:;
+    height: 490px;
+    width: 580px;
+    margin-top: 30px;
+    margin-right:30px;
+    margin-left: auto;
+    float: right;
+    
+}
+
+.managers{
+    background-color:;
+    height: 490px;
+    width: 500px;
+    margin-top: 80px;
+    margin-right:30px;
+    margin-left: auto;
+    float: right;
+    
+}
+
+.loginmenu{
+    background-color:;
+    height: 490px;
+    width: 650px;
+    margin-top: 80px;
+    margin-right:30px;
+    margin-left: auto;
+    float: right;
+    
+}
+
+
+.logincustomer
+{
+    background-color:;
+    height: 490px;
+    width: 500px;
+    margin-top: 80px;
+    margin-right:30px;
+    margin-left: auto;
+    float: right;
+    
+}
+
+.register{
+    background-color:;
+    height: 490px;
+    width: 500px;
+    margin-top: 80px;
+    margin-right:30px;
+    margin-left: auto;
+    float: right;
+    
+}
+
+
+.logincustomer{
+    background-color:;
+    height: 490px;
+    width: 500px;
+    margin-top: 80px;
+    margin-right:30px;
+    margin-left: auto;
+    float: right;
+}
+
+
+.navBar li {
+
+	font-size: 24px;
+	
+	text-align: left;
+	font-family: Arial, "san-serif";
+	font-weight: normal;
+	padding: 5px 100px 5px 20px;
+
+}
+
+
+
+.navBar li a:link {color: white; text-decoration: none;}  /* unvisited link */
+.navBar li a:visited {color:white;text-decoration: none;} /* visited link */
+.navBar li a:hover {color:gray;text-decoration: none;}    /* mouse over link */
+.navBar li a:active {color:gray;text-decoration: none;}   /* selected link */
+
+.menu{
+    display: inline;
+	float: left;
+	opacity: 0.9;
+	font-family: arial;
+	text-shadow:1px 1px 1px ;
+	border-top: px solid rgba(0,0,0,0.3);
+
+}
+
+
+.footer{
+    background: url("images/main-background.png");
+	position: fixed;
+	bottom: 0px;
+	margin: 0;
+	padding: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 100px;
+	font-family: arial;
+	text-shadow:1px 1px 1px ;
+	border-top: 1px solid rgba(0,0,0,0.3);
+	background: rgba(0,0,0,0.25);
+	box-shadow: inset 0 1px rgba(255, 255, 255, 0.3), inset 0 10px rgba(255, 255, 255, 0.3), inset 0 10px 20px rgba(255, 255, 255, 0.25), inset 0 -15px 30px rgba(0, 0, 0, 0.3);
+}
+
+.copy{
+    text-align: center;
+}
+
+ul {
+  text-align: left;
+  display: inline;
+  margin: 0;
+  padding: 15px 4px 27px 0;
+  list-style: none;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+ul li {
+  font: bold 12px/18px sans-serif;
+  display: inline-block;
+  margin-right: -4px;
+  position: relative;
+  padding: 15px 20px;
+  background: #fff;
+  cursor: pointer;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+ul li:hover {
+  background: ;
+  color:;
+}
+ul li ul {
+  padding: 0;
+  position: absolute;
+  top: 26px;
+  left: 0;
+  width: 500px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transiton: opacity 0.2s;
+  -moz-transition: opacity 0.2s;
+  -ms-transition: opacity 0.2s;
+  -o-transition: opacity 0.2s;
+  -transition: opacity 0.2s;
+}
+
+}
+ul li ul li:hover { background:; }
+ul li:hover ul {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}
